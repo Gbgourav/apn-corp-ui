@@ -30,7 +30,7 @@ export default function HeroSection() {
       <div className="relative z-10 px-4 md:px-14 w-full flex items-center h-full">
         <div className="max-w-2xl -mt-16 md:-mt-20">
           <h1 className="font-helixa text-3xl md:text-5xl lg:text-6xl leading-tight text-black mb-8">
-            At <span className="font-raflesia text-red-600">Baner's</span> most exclusive address, designed for both
+            At <span className="font-raflesia text-red-600">Baner&apos;s</span> most exclusive address, designed for both
             your Privacy & <span className="font-rafulsion text-red-600">luxury.</span>
           </h1>
         </div>

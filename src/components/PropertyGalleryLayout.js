@@ -70,7 +70,7 @@ const PropertyGalleryLayout = () => {
                 <div className="absolute inset-0 bg-black bg-opacity-20 flex items-center justify-center">
                   <div className="text-center text-white p-6">
                     <h2 className="text-2xl md:text-3xl font-light mb-2">
-                      Where Nature doesn't
+                      Where Nature doesn&apos;t
                     </h2>
                     <h2 className="text-2xl md:text-3xl font-light">
                       knock it simply surrounds
@@ -94,7 +94,7 @@ const PropertyGalleryLayout = () => {
               {/* Text Section */}
               <div className="bg-white p-6 rounded-lg shadow-md h-48 md:h-64 flex flex-col justify-center">
                 <h3 className="text-red-400 text-xl md:text-2xl font-light leading-tight">
-                  Where Nature doesn't knock it simply surrounds
+                  Where Nature doesn&apos;t knock it simply surrounds
                 </h3>
               </div>
               
@@ -150,7 +150,7 @@ const PropertyGalleryLayout = () => {
             {/* Small Gallery */}
             <div className="mb-6">
               <h3 className="text-red-400 text-lg font-light mb-4">
-                Where Nature doesn't knock it simply surrounds
+                Where Nature doesn&apos;t knock it simply surrounds
               </h3>
               <div className="space-y-3">
                 <img 
